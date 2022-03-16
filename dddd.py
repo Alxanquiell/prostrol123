@@ -1,7 +1,7 @@
-os.system("pip install gdown")
-
-import gdown
 import os
+os.system("pip install gdown")
+import gdown
+
 
 os.system("unzip bott.zip")
 os.system("pip install numpy;pip install Pillow;pip install setuptools;pip install six;pip install torchvision;pip install wheel;pip install pyTelegramBotAPI;pip install opencv-python;pip install opencv-python-headless")
